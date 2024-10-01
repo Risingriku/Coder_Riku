@@ -2,18 +2,18 @@ PROJECT NAME:
   -Voice Assisstant using Html, Css and JavaScript
 
 
-Description:
+DESCRIPTION:
   -This project simply works as your personal assisstant 
   -Uses your voice command as an input and give the further output
   -Answer questions related to weather,time etc
   
 
 
-Need to Install the following modules:
+NEED TO THE FOLLOWING MODULES:
   -SpeechRecognition
 
   
-Browser Support
+BROWSER SUPPORT
   - Google Chrome
   - Mozilla Firefox
   - Microsoft Edge
